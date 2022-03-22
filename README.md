@@ -39,3 +39,7 @@ Web application which enables customers to buy or customize jewelry.
 * Thymeleaf + bootstrap
 * SQL
 
+## Authors
+* Ana Ramljak
+* Katarina Ramljak
+
